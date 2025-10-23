@@ -49,7 +49,18 @@ python pomodora.py
 
 ## Screenshots
 
+### Dark and Light Themes
 
+<img width="317" height="395" alt="Screenshot_20251023_113905-2" src="https://github.com/user-attachments/assets/ace52075-b816-40af-a60a-e26bbb6cd946" />
+<img width="318" height="399" alt="Screenshot_20251023_114231" src="https://github.com/user-attachments/assets/8adb3f24-55d7-4de7-a021-6a6485d8c4d7" />
+
+### Settings Page
+
+<img width="348" height="498" alt="Screenshot_20251023_114145" src="https://github.com/user-attachments/assets/c00f6a8a-6f86-476e-b628-7d9db193527e" />
+
+### Zen Mode
+
+<img width="315" height="237" alt="Screenshot_20251023_114341" src="https://github.com/user-attachments/assets/27e9a601-63df-4d3b-9503-6318970e8dfc" />
 
 ## Usage
 
